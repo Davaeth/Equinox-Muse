@@ -1,4 +1,4 @@
-# Equinox-Muse
+# Equinox-Steward
 Bot for a discord clan server
 
 Bot is about to welcome and goodbye members when their status changes.
